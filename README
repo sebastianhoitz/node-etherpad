@@ -1,0 +1,6 @@
+Node.js Etherpad Clone
+
+This was created because of an experiment and to get to know node.js.
+
+I'm using the fantastic SocketStream https://github.com/socketstream/socketstream web framework.
+
